@@ -69,3 +69,13 @@ div.header, div.instructions{
 	color: #ffc225;
 	font-weight: bold;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 96%;
+    background-color:rgb(83, 17, 17);
+    color: white;
+    text-align: center;
+    padding: 12px;   
+ }
